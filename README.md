@@ -7,6 +7,7 @@ https://colab.research.google.com/drive/1NuMMH143Z6JWUmVc7dOBnRdnYhYtUyJ2?usp=sh
 
  long horizon colab:
 
+https://colab.research.google.com/drive/1CpxCigX7jukzmPp8-UGwqdxKvq7zjsGb?usp=sharing
 
 
  b) finetune timegpt:
