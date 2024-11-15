@@ -12,6 +12,8 @@ https://colab.research.google.com/drive/1CpxCigX7jukzmPp8-UGwqdxKvq7zjsGb?usp=sh
 
  b) finetune timegpt:
 
+https://colab.research.google.com/drive/1GsGkfbtTlTdOvosJbQizQx0TUCXG4tvk?usp=sharing
+
 
 
 c) anomaly detection of timeseries using timegpt:
