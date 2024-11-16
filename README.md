@@ -18,6 +18,8 @@ https://colab.research.google.com/drive/1GsGkfbtTlTdOvosJbQizQx0TUCXG4tvk?usp=sh
 
 c) anomaly detection of timeseries using timegpt:
 
+https://colab.research.google.com/drive/1D6Y4s-QwFMUJFXeamI22V43PUC6FsE5F?usp=sharing
+
 
 
 d) utilize timegpt for energy forecasting:
