@@ -24,6 +24,8 @@ https://colab.research.google.com/drive/1D6Y4s-QwFMUJFXeamI22V43PUC6FsE5F?usp=sh
 
 d) utilize timegpt for energy forecasting:
 
+https://colab.research.google.com/drive/1n29XpfBKMUUDLY70lV8ud3vJ607FTwCz?usp=sharing
+
 
 
 e) use timegpt for bitcoin forecasting:
