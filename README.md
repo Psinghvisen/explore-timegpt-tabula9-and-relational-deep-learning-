@@ -30,6 +30,8 @@ https://colab.research.google.com/drive/1n29XpfBKMUUDLY70lV8ud3vJ607FTwCz?usp=sh
 
 e) use timegpt for bitcoin forecasting:
 
+https://colab.research.google.com/drive/1vkJxG4xrQqdEcWfgabdEkWDhOROWJ6CH?usp=sharing
+
 
 Tabular:
 
