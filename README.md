@@ -40,6 +40,8 @@ a) Generate synthetic data for a real data set:
 
 b) demonstrate inference on tabula model with zero shot:
 
+https://colab.research.google.com/drive/1uw2HagCn4cunFCUpsVe46oiDghnP1RZm?usp=sharing
+
 
 
 RDL and relbench:
