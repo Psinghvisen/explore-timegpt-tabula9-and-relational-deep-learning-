@@ -37,6 +37,8 @@ Tabular:
 
 a) Generate synthetic data for a real data set:
 
+https://colab.research.google.com/drive/1pYc63TqSQvKK9Qnzp7OPMCmEroLcNJxl?usp=sharing
+
 
 b) demonstrate inference on tabula model with zero shot:
 
